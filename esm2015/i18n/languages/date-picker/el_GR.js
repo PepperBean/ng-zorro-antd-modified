@@ -1,0 +1,23 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+ */
+/**
+ * @license
+ * Copyright Alibaba.com All Rights Reserved.
+ *
+ * Use of this source code is governed by an MIT-style license that can be
+ * found in the LICENSE file at https://github.com/NG-ZORRO/ng-zorro-antd/blob/master/LICENSE
+ */
+import CalendarLocale from '../calendar/el_GR';
+import TimePickerLocale from '../time-picker/el_GR';
+// Merge into a locale object
+/** @type {?} */
+const locale = {
+    lang: Object.assign({ placeholder: 'Επιλέξτε ημερομηνία', rangePlaceholder: ['Αρχική ημερομηνία', 'Τελική ημερομηνία'] }, CalendarLocale),
+    timePickerLocale: Object.assign({}, TimePickerLocale)
+};
+// All settings at:
+// https://github.com/ant-design/ant-design/issues/424
+export default locale;
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZWxfR1IuanMiLCJzb3VyY2VSb290Ijoibmc6Ly9uZy16b3Jyby1hbnRkL2kxOG4vIiwic291cmNlcyI6WyJsYW5ndWFnZXMvZGF0ZS1waWNrZXIvZWxfR1IudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6Ijs7Ozs7Ozs7Ozs7QUFRQSxPQUFPLGNBQWMsTUFBTSxtQkFBbUIsQ0FBQztBQUMvQyxPQUFPLGdCQUFnQixNQUFNLHNCQUFzQixDQUFDOzs7TUFHOUMsTUFBTSxHQUFHO0lBQ2IsSUFBSSxrQkFDRixXQUFXLEVBQUUscUJBQXFCLEVBQ2xDLGdCQUFnQixFQUFFLENBQUMsbUJBQW1CLEVBQUUsbUJBQW1CLENBQUMsSUFDekQsY0FBYyxDQUNsQjtJQUNELGdCQUFnQixvQkFDWCxnQkFBZ0IsQ0FDcEI7Q0FDRjs7O0FBS0QsZUFBZSxNQUFNLENBQUMiLCJzb3VyY2VzQ29udGVudCI6WyIvKipcclxuICogQGxpY2Vuc2VcclxuICogQ29weXJpZ2h0IEFsaWJhYmEuY29tIEFsbCBSaWdodHMgUmVzZXJ2ZWQuXHJcbiAqXHJcbiAqIFVzZSBvZiB0aGlzIHNvdXJjZSBjb2RlIGlzIGdvdmVybmVkIGJ5IGFuIE1JVC1zdHlsZSBsaWNlbnNlIHRoYXQgY2FuIGJlXHJcbiAqIGZvdW5kIGluIHRoZSBMSUNFTlNFIGZpbGUgYXQgaHR0cHM6Ly9naXRodWIuY29tL05HLVpPUlJPL25nLXpvcnJvLWFudGQvYmxvYi9tYXN0ZXIvTElDRU5TRVxyXG4gKi9cclxuXHJcbmltcG9ydCBDYWxlbmRhckxvY2FsZSBmcm9tICcuLi9jYWxlbmRhci9lbF9HUic7XHJcbmltcG9ydCBUaW1lUGlja2VyTG9jYWxlIGZyb20gJy4uL3RpbWUtcGlja2VyL2VsX0dSJztcclxuXHJcbi8vIE1lcmdlIGludG8gYSBsb2NhbGUgb2JqZWN0XHJcbmNvbnN0IGxvY2FsZSA9IHtcclxuICBsYW5nOiB7XHJcbiAgICBwbGFjZWhvbGRlcjogJ86Vz4DOuc67zq3Ovs+EzrUgzrfOvM61z4HOv868zrfOvc6vzrEnLFxyXG4gICAgcmFuZ2VQbGFjZWhvbGRlcjogWyfOkc+Bz4fOuc66zq4gzrfOvM61z4HOv868zrfOvc6vzrEnLCAnzqTOtc67zrnOus6uIM63zrzOtc+Bzr/OvM63zr3Or86xJ10sXHJcbiAgICAuLi5DYWxlbmRhckxvY2FsZVxyXG4gIH0sXHJcbiAgdGltZVBpY2tlckxvY2FsZToge1xyXG4gICAgLi4uVGltZVBpY2tlckxvY2FsZVxyXG4gIH1cclxufTtcclxuXHJcbi8vIEFsbCBzZXR0aW5ncyBhdDpcclxuLy8gaHR0cHM6Ly9naXRodWIuY29tL2FudC1kZXNpZ24vYW50LWRlc2lnbi9pc3N1ZXMvNDI0XHJcblxyXG5leHBvcnQgZGVmYXVsdCBsb2NhbGU7XHJcbiJdfQ==

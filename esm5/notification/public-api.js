@@ -1,0 +1,18 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+ */
+/**
+ * @license
+ * Copyright Alibaba.com All Rights Reserved.
+ *
+ * Use of this source code is governed by an MIT-style license that can be
+ * found in the LICENSE file at https://github.com/NG-ZORRO/ng-zorro-antd/blob/master/LICENSE
+ */
+export { NZ_NOTIFICATION_DEFAULT_CONFIG, NZ_NOTIFICATION_CONFIG, NZ_NOTIFICATION_DEFAULT_CONFIG_PROVIDER } from './nz-notification-config';
+export { NzNotificationComponent } from './nz-notification.component';
+export { NzNotificationModule } from './nz-notification.module';
+export {} from './nz-notification.definitions';
+export { NzNotificationService } from './nz-notification.service';
+export { NzNotificationContainerComponent } from './nz-notification-container.component';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiJuZzovL25nLXpvcnJvLWFudGQvbm90aWZpY2F0aW9uLyIsInNvdXJjZXMiOlsicHVibGljLWFwaS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiOzs7Ozs7Ozs7OztBQVFBLGdIQUFjLDBCQUEwQixDQUFDO0FBQ3pDLHdDQUFjLDZCQUE2QixDQUFDO0FBQzVDLHFDQUFjLDBCQUEwQixDQUFDO0FBQ3pDLGVBQWMsK0JBQStCLENBQUM7QUFDOUMsc0NBQWMsMkJBQTJCLENBQUM7QUFDMUMsaURBQWMsdUNBQXVDLENBQUMiLCJzb3VyY2VzQ29udGVudCI6WyIvKipcclxuICogQGxpY2Vuc2VcclxuICogQ29weXJpZ2h0IEFsaWJhYmEuY29tIEFsbCBSaWdodHMgUmVzZXJ2ZWQuXHJcbiAqXHJcbiAqIFVzZSBvZiB0aGlzIHNvdXJjZSBjb2RlIGlzIGdvdmVybmVkIGJ5IGFuIE1JVC1zdHlsZSBsaWNlbnNlIHRoYXQgY2FuIGJlXHJcbiAqIGZvdW5kIGluIHRoZSBMSUNFTlNFIGZpbGUgYXQgaHR0cHM6Ly9naXRodWIuY29tL05HLVpPUlJPL25nLXpvcnJvLWFudGQvYmxvYi9tYXN0ZXIvTElDRU5TRVxyXG4gKi9cclxuXHJcbmV4cG9ydCAqIGZyb20gJy4vbnotbm90aWZpY2F0aW9uLWNvbmZpZyc7XHJcbmV4cG9ydCAqIGZyb20gJy4vbnotbm90aWZpY2F0aW9uLmNvbXBvbmVudCc7XHJcbmV4cG9ydCAqIGZyb20gJy4vbnotbm90aWZpY2F0aW9uLm1vZHVsZSc7XHJcbmV4cG9ydCAqIGZyb20gJy4vbnotbm90aWZpY2F0aW9uLmRlZmluaXRpb25zJztcclxuZXhwb3J0ICogZnJvbSAnLi9uei1ub3RpZmljYXRpb24uc2VydmljZSc7XHJcbmV4cG9ydCAqIGZyb20gJy4vbnotbm90aWZpY2F0aW9uLWNvbnRhaW5lci5jb21wb25lbnQnO1xyXG4iXX0=

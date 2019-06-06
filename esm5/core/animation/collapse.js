@@ -1,0 +1,24 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+ */
+/**
+ * @license
+ * Copyright Alibaba.com All Rights Reserved.
+ *
+ * Use of this source code is governed by an MIT-style license that can be
+ * found in the LICENSE file at https://github.com/NG-ZORRO/ng-zorro-antd/blob/master/LICENSE
+ */
+import { animate, state, style, transition, trigger } from '@angular/animations';
+import { AnimationCurves } from './animation-consts';
+/** @type {?} */
+export var collapseMotion = trigger('collapseMotion', [
+    state('expanded', style({ height: '*' })),
+    state('collapsed', style({ height: 0, overflow: 'hidden' })),
+    state('hidden', style({ height: 0, display: 'none' })),
+    transition('expanded => collapsed', animate("150ms " + AnimationCurves.EASE_IN_OUT)),
+    transition('expanded => hidden', animate("150ms " + AnimationCurves.EASE_IN_OUT)),
+    transition('collapsed => expanded', animate("150ms " + AnimationCurves.EASE_IN_OUT)),
+    transition('hidden => expanded', animate("150ms " + AnimationCurves.EASE_IN_OUT))
+]);
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiY29sbGFwc2UuanMiLCJzb3VyY2VSb290Ijoibmc6Ly9uZy16b3Jyby1hbnRkL2NvcmUvIiwic291cmNlcyI6WyJhbmltYXRpb24vY29sbGFwc2UudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6Ijs7Ozs7Ozs7Ozs7QUFRQSxPQUFPLEVBQUUsT0FBTyxFQUFFLEtBQUssRUFBRSxLQUFLLEVBQUUsVUFBVSxFQUFFLE9BQU8sRUFBNEIsTUFBTSxxQkFBcUIsQ0FBQztBQUMzRyxPQUFPLEVBQUUsZUFBZSxFQUFFLE1BQU0sb0JBQW9CLENBQUM7O0FBRXJELE1BQU0sS0FBTyxjQUFjLEdBQTZCLE9BQU8sQ0FBQyxnQkFBZ0IsRUFBRTtJQUNoRixLQUFLLENBQUMsVUFBVSxFQUFFLEtBQUssQ0FBQyxFQUFFLE1BQU0sRUFBRSxHQUFHLEVBQUUsQ0FBQyxDQUFDO0lBQ3pDLEtBQUssQ0FBQyxXQUFXLEVBQUUsS0FBSyxDQUFDLEVBQUUsTUFBTSxFQUFFLENBQUMsRUFBRSxRQUFRLEVBQUUsUUFBUSxFQUFFLENBQUMsQ0FBQztJQUM1RCxLQUFLLENBQUMsUUFBUSxFQUFFLEtBQUssQ0FBQyxFQUFFLE1BQU0sRUFBRSxDQUFDLEVBQUUsT0FBTyxFQUFFLE1BQU0sRUFBRSxDQUFDLENBQUM7SUFDdEQsVUFBVSxDQUFDLHVCQUF1QixFQUFFLE9BQU8sQ0FBQyxXQUFTLGVBQWUsQ0FBQyxXQUFhLENBQUMsQ0FBQztJQUNwRixVQUFVLENBQUMsb0JBQW9CLEVBQUUsT0FBTyxDQUFDLFdBQVMsZUFBZSxDQUFDLFdBQWEsQ0FBQyxDQUFDO0lBQ2pGLFVBQVUsQ0FBQyx1QkFBdUIsRUFBRSxPQUFPLENBQUMsV0FBUyxlQUFlLENBQUMsV0FBYSxDQUFDLENBQUM7SUFDcEYsVUFBVSxDQUFDLG9CQUFvQixFQUFFLE9BQU8sQ0FBQyxXQUFTLGVBQWUsQ0FBQyxXQUFhLENBQUMsQ0FBQztDQUNsRixDQUFDIiwic291cmNlc0NvbnRlbnQiOlsiLyoqXHJcbiAqIEBsaWNlbnNlXHJcbiAqIENvcHlyaWdodCBBbGliYWJhLmNvbSBBbGwgUmlnaHRzIFJlc2VydmVkLlxyXG4gKlxyXG4gKiBVc2Ugb2YgdGhpcyBzb3VyY2UgY29kZSBpcyBnb3Zlcm5lZCBieSBhbiBNSVQtc3R5bGUgbGljZW5zZSB0aGF0IGNhbiBiZVxyXG4gKiBmb3VuZCBpbiB0aGUgTElDRU5TRSBmaWxlIGF0IGh0dHBzOi8vZ2l0aHViLmNvbS9ORy1aT1JSTy9uZy16b3Jyby1hbnRkL2Jsb2IvbWFzdGVyL0xJQ0VOU0VcclxuICovXHJcblxyXG5pbXBvcnQgeyBhbmltYXRlLCBzdGF0ZSwgc3R5bGUsIHRyYW5zaXRpb24sIHRyaWdnZXIsIEFuaW1hdGlvblRyaWdnZXJNZXRhZGF0YSB9IGZyb20gJ0Bhbmd1bGFyL2FuaW1hdGlvbnMnO1xyXG5pbXBvcnQgeyBBbmltYXRpb25DdXJ2ZXMgfSBmcm9tICcuL2FuaW1hdGlvbi1jb25zdHMnO1xyXG5cclxuZXhwb3J0IGNvbnN0IGNvbGxhcHNlTW90aW9uOiBBbmltYXRpb25UcmlnZ2VyTWV0YWRhdGEgPSB0cmlnZ2VyKCdjb2xsYXBzZU1vdGlvbicsIFtcclxuICBzdGF0ZSgnZXhwYW5kZWQnLCBzdHlsZSh7IGhlaWdodDogJyonIH0pKSxcclxuICBzdGF0ZSgnY29sbGFwc2VkJywgc3R5bGUoeyBoZWlnaHQ6IDAsIG92ZXJmbG93OiAnaGlkZGVuJyB9KSksXHJcbiAgc3RhdGUoJ2hpZGRlbicsIHN0eWxlKHsgaGVpZ2h0OiAwLCBkaXNwbGF5OiAnbm9uZScgfSkpLFxyXG4gIHRyYW5zaXRpb24oJ2V4cGFuZGVkID0+IGNvbGxhcHNlZCcsIGFuaW1hdGUoYDE1MG1zICR7QW5pbWF0aW9uQ3VydmVzLkVBU0VfSU5fT1VUfWApKSxcclxuICB0cmFuc2l0aW9uKCdleHBhbmRlZCA9PiBoaWRkZW4nLCBhbmltYXRlKGAxNTBtcyAke0FuaW1hdGlvbkN1cnZlcy5FQVNFX0lOX09VVH1gKSksXHJcbiAgdHJhbnNpdGlvbignY29sbGFwc2VkID0+IGV4cGFuZGVkJywgYW5pbWF0ZShgMTUwbXMgJHtBbmltYXRpb25DdXJ2ZXMuRUFTRV9JTl9PVVR9YCkpLFxyXG4gIHRyYW5zaXRpb24oJ2hpZGRlbiA9PiBleHBhbmRlZCcsIGFuaW1hdGUoYDE1MG1zICR7QW5pbWF0aW9uQ3VydmVzLkVBU0VfSU5fT1VUfWApKVxyXG5dKTtcclxuIl19

@@ -1,0 +1,17 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+ */
+/**
+ * @license
+ * Copyright Alibaba.com All Rights Reserved.
+ *
+ * Use of this source code is governed by an MIT-style license that can be
+ * found in the LICENSE file at https://github.com/NG-ZORRO/ng-zorro-antd/blob/master/LICENSE
+ */
+export { NzAutocompleteModule } from './nz-autocomplete.module';
+export { NzAutocompleteComponent } from './nz-autocomplete.component';
+export { getNzAutocompleteMissingPanelError, NZ_AUTOCOMPLETE_VALUE_ACCESSOR, NzAutocompleteTriggerDirective } from './nz-autocomplete-trigger.directive';
+export { NzOptionSelectionChange, NzAutocompleteOptionComponent } from './nz-autocomplete-option.component';
+export { NzAutocompleteOptgroupComponent } from './nz-autocomplete-optgroup.component';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiJuZzovL25nLXpvcnJvLWFudGQvYXV0by1jb21wbGV0ZS8iLCJzb3VyY2VzIjpbInB1YmxpYy1hcGkudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6Ijs7Ozs7Ozs7Ozs7QUFRQSxxQ0FBYywwQkFBMEIsQ0FBQztBQUN6Qyx3Q0FBYyw2QkFBNkIsQ0FBQztBQUM1QyxtSEFBYyxxQ0FBcUMsQ0FBQztBQUNwRCx1RUFBYyxvQ0FBb0MsQ0FBQztBQUNuRCxnREFBYyxzQ0FBc0MsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbIi8qKlxyXG4gKiBAbGljZW5zZVxyXG4gKiBDb3B5cmlnaHQgQWxpYmFiYS5jb20gQWxsIFJpZ2h0cyBSZXNlcnZlZC5cclxuICpcclxuICogVXNlIG9mIHRoaXMgc291cmNlIGNvZGUgaXMgZ292ZXJuZWQgYnkgYW4gTUlULXN0eWxlIGxpY2Vuc2UgdGhhdCBjYW4gYmVcclxuICogZm91bmQgaW4gdGhlIExJQ0VOU0UgZmlsZSBhdCBodHRwczovL2dpdGh1Yi5jb20vTkctWk9SUk8vbmctem9ycm8tYW50ZC9ibG9iL21hc3Rlci9MSUNFTlNFXHJcbiAqL1xyXG5cclxuZXhwb3J0ICogZnJvbSAnLi9uei1hdXRvY29tcGxldGUubW9kdWxlJztcclxuZXhwb3J0ICogZnJvbSAnLi9uei1hdXRvY29tcGxldGUuY29tcG9uZW50JztcclxuZXhwb3J0ICogZnJvbSAnLi9uei1hdXRvY29tcGxldGUtdHJpZ2dlci5kaXJlY3RpdmUnO1xyXG5leHBvcnQgKiBmcm9tICcuL256LWF1dG9jb21wbGV0ZS1vcHRpb24uY29tcG9uZW50JztcclxuZXhwb3J0ICogZnJvbSAnLi9uei1hdXRvY29tcGxldGUtb3B0Z3JvdXAuY29tcG9uZW50JztcclxuIl19

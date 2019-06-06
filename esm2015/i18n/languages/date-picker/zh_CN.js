@@ -1,0 +1,24 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+ */
+/**
+ * @license
+ * Copyright Alibaba.com All Rights Reserved.
+ *
+ * Use of this source code is governed by an MIT-style license that can be
+ * found in the LICENSE file at https://github.com/NG-ZORRO/ng-zorro-antd/blob/master/LICENSE
+ */
+import CalendarLocale from '../calendar/zh_CN';
+import TimePickerLocale from '../time-picker/zh_CN';
+/** @type {?} */
+const locale = {
+    lang: Object.assign({ placeholder: '请选择日期', rangePlaceholder: ['开始日期', '结束日期'] }, CalendarLocale),
+    timePickerLocale: Object.assign({}, TimePickerLocale)
+};
+// should add whitespace between char in Button
+locale.lang.ok = '确 定';
+// All settings at:
+// https://github.com/ant-design/ant-design/blob/master/components/date-picker/locale/example.json
+export default locale;
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiemhfQ04uanMiLCJzb3VyY2VSb290Ijoibmc6Ly9uZy16b3Jyby1hbnRkL2kxOG4vIiwic291cmNlcyI6WyJsYW5ndWFnZXMvZGF0ZS1waWNrZXIvemhfQ04udHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6Ijs7Ozs7Ozs7Ozs7QUFRQSxPQUFPLGNBQWMsTUFBTSxtQkFBbUIsQ0FBQztBQUMvQyxPQUFPLGdCQUFnQixNQUFNLHNCQUFzQixDQUFDOztNQUU5QyxNQUFNLEdBQUc7SUFDYixJQUFJLGtCQUNGLFdBQVcsRUFBRSxPQUFPLEVBQ3BCLGdCQUFnQixFQUFFLENBQUMsTUFBTSxFQUFFLE1BQU0sQ0FBQyxJQUMvQixjQUFjLENBQ2xCO0lBQ0QsZ0JBQWdCLG9CQUNYLGdCQUFnQixDQUNwQjtDQUNGOztBQUdELE1BQU0sQ0FBQyxJQUFJLENBQUMsRUFBRSxHQUFHLEtBQUssQ0FBQzs7O0FBS3ZCLGVBQWUsTUFBTSxDQUFDIiwic291cmNlc0NvbnRlbnQiOlsiLyoqXHJcbiAqIEBsaWNlbnNlXHJcbiAqIENvcHlyaWdodCBBbGliYWJhLmNvbSBBbGwgUmlnaHRzIFJlc2VydmVkLlxyXG4gKlxyXG4gKiBVc2Ugb2YgdGhpcyBzb3VyY2UgY29kZSBpcyBnb3Zlcm5lZCBieSBhbiBNSVQtc3R5bGUgbGljZW5zZSB0aGF0IGNhbiBiZVxyXG4gKiBmb3VuZCBpbiB0aGUgTElDRU5TRSBmaWxlIGF0IGh0dHBzOi8vZ2l0aHViLmNvbS9ORy1aT1JSTy9uZy16b3Jyby1hbnRkL2Jsb2IvbWFzdGVyL0xJQ0VOU0VcclxuICovXHJcblxyXG5pbXBvcnQgQ2FsZW5kYXJMb2NhbGUgZnJvbSAnLi4vY2FsZW5kYXIvemhfQ04nO1xyXG5pbXBvcnQgVGltZVBpY2tlckxvY2FsZSBmcm9tICcuLi90aW1lLXBpY2tlci96aF9DTic7XHJcblxyXG5jb25zdCBsb2NhbGUgPSB7XHJcbiAgbGFuZzoge1xyXG4gICAgcGxhY2Vob2xkZXI6ICfor7fpgInmi6nml6XmnJ8nLFxyXG4gICAgcmFuZ2VQbGFjZWhvbGRlcjogWyflvIDlp4vml6XmnJ8nLCAn57uT5p2f5pel5pyfJ10sXHJcbiAgICAuLi5DYWxlbmRhckxvY2FsZVxyXG4gIH0sXHJcbiAgdGltZVBpY2tlckxvY2FsZToge1xyXG4gICAgLi4uVGltZVBpY2tlckxvY2FsZVxyXG4gIH1cclxufTtcclxuXHJcbi8vIHNob3VsZCBhZGQgd2hpdGVzcGFjZSBiZXR3ZWVuIGNoYXIgaW4gQnV0dG9uXHJcbmxvY2FsZS5sYW5nLm9rID0gJ+ehriDlrponO1xyXG5cclxuLy8gQWxsIHNldHRpbmdzIGF0OlxyXG4vLyBodHRwczovL2dpdGh1Yi5jb20vYW50LWRlc2lnbi9hbnQtZGVzaWduL2Jsb2IvbWFzdGVyL2NvbXBvbmVudHMvZGF0ZS1waWNrZXIvbG9jYWxlL2V4YW1wbGUuanNvblxyXG5cclxuZXhwb3J0IGRlZmF1bHQgbG9jYWxlO1xyXG4iXX0=
